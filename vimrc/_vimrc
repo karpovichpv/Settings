@@ -1,0 +1,11 @@
+set encoding=UTF-8
+set scrolloff=8
+set number
+set relativenumber
+
+let mapleader = " "
+
+nnoremap <leader>pv :Vex<CR>
+inoremap jj <esc>
+nnoremap m "0p
+vnoremap m "0p
